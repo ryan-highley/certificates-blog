@@ -1,0 +1,1 @@
+V	270518214746Z		1000	unknown	/C=US/ST=Texas/O=RHC NA Enterprise Integration Practice/OU=RHC NA EI Practice Certificate Authority/CN=RHC NA EI Practice Intermediate CA
